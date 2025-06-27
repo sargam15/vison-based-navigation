@@ -58,6 +58,7 @@ A real-time visual odometry system using a monocular camera for underwater remot
 ## 📂 Folder Structure
 
 vison-based-navigation/
+
 ├── CameraCalliberation.py # Generates intrinsic parameters
 
 ├── VisualOdometry.py # Visual odometry pipeline
@@ -134,6 +135,7 @@ This project is licensed under the MIT License.
 ## 🙋‍♀️ Author
 
 Sargam Malik
+
 📧 sargammalik004@gmail.com
 
 🔗 Linkedin-https://www.linkedin.com/in/sargammalik/
