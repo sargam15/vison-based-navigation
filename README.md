@@ -2,19 +2,19 @@
 
 A real-time visual odometry system using a monocular camera for underwater remotely operated vehicles (ROVs). The system performs feature tracking, pose estimation, and visual trajectory generation using OpenCV and deep learning object detection.
 
----
+
 
 ## 📽️ Demo Video
 
 ▶️ [Click here to watch the demo](docs/implementation1.mp4)
 
----
+
 
 ## 📄 Project Report
 
 📥 [Download the full technical report (PDF)](docs/project_report.pdf) *(Upload this to /docs when ready)*
 
----
+
 
 ## 🚀 Features
 
@@ -25,7 +25,7 @@ A real-time visual odometry system using a monocular camera for underwater remot
 - ✅ Camera calibration for accurate motion recovery
 - ✅ Trajectory visualization in 2D/3D
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ A real-time visual odometry system using a monocular camera for underwater remot
 - pytransform3d (for camera visualization)
 - Matplotlib (optional for plotting)
 
----
+
 
 ## 📂 Folder Structure
 
@@ -50,7 +50,7 @@ vison-based-navigation/
 │ ├── implementation1.mp4 # Demo video
 │ └── project_report.pdf # Project report 
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -79,7 +79,7 @@ This uses chessboard images in the current folder and saves the camera matrix fo
 
 python VisualOdometry.py
 
----
+
 
 ## Algorithms Used
 
@@ -93,22 +93,22 @@ python VisualOdometry.py
 
     Visualization: pytransform3d / matplotlib
 
----
+
 
 ## 🤝 Contributions
 
 Pull requests are welcome. Please open an issue to discuss major changes first.
 
----
+
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 
----
+
 
 ## 🙋‍♀️ Author
 
 Sargam Malik
 📧 sargammalik004@gmail.com
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sargam-malik)
+🔗 Linkedin-https://www.linkedin.com/in/sargammalik/
