@@ -75,7 +75,7 @@ vison-based-navigation/
 
 ## ⚙️ Setup Instructions
 
-### 🔹 1. Clone the repository
+### 1. Clone the repository
 
 bash
 git clone https://github.com/sargam15/vison-based-navigation.git
@@ -132,4 +132,6 @@ This project is licensed under the MIT License.
 
 Sargam Malik
 📧 sargammalik004@gmail.com
+
+
 🔗 Linkedin-https://www.linkedin.com/in/sargammalik/
