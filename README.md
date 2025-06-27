@@ -108,15 +108,17 @@ python VisualOdometry.py
 
 ## Algorithms Used
 
-    Feature detection: ORB / SIFT
+### Feature detection: ORB / SIFT
 
-    Pose estimation: Essential Matrix, RANSAC
+###    Pose estimation: Essential Matrix, RANSAC
 
-    Odometry pipeline: Feature tracking → Matrix decomposition → Accumulated pose
+###    Odometry pipeline: Feature tracking → Matrix decomposition → Accumulated pose
 
-    Object detection: YOLOv8 with Ultralytics
+### Object detection: YOLOv8 with Ultralytics
 
-    Visualization: pytransform3d / matplotlib
+### Visualization: pytransform3d / matplotlib
+
+
 
 
 
