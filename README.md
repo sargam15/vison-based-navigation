@@ -60,24 +60,17 @@ A real-time visual odometry system using a monocular camera for underwater remot
 vison-based-navigation/
 ├── CameraCalliberation.py # Generates intrinsic parameters
 
-
 ├── VisualOdometry.py # Visual odometry pipeline
-
 
 ├── ObjectTracker.py # Multi-object tracking logic
 
-
 ├── requirements.txt # Python dependencies
-
 
 ├── README.md # This file
 
-
 ├── docs/
 
-
 │ ├── implementation1.mp4 # Demo video
-
 
 │ └── project_report.pdf # Project report 
 
@@ -142,6 +135,5 @@ This project is licensed under the MIT License.
 
 Sargam Malik
 📧 sargammalik004@gmail.com
-
 
 🔗 Linkedin-https://www.linkedin.com/in/sargammalik/
