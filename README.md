@@ -25,7 +25,28 @@ A real-time visual odometry system using a monocular camera for underwater remot
 - ✅ Camera calibration for accurate motion recovery
 - ✅ Trajectory visualization in 2D/3D
 
+# 🧭 Vision-Based Navigation for Underwater ROVs
 
+A real-time visual odometry system using a monocular camera for underwater remotely operated vehicles (ROVs). The system performs feature tracking, pose estimation, and visual trajectory generation using OpenCV and deep learning object detection.
+
+
+
+## 📽️ Demo Video
+
+▶️ [Click here to watch the demo](docs/implementation1.mp4)
+
+
+
+## 📄 Project Report
+
+📥 [Download the full technical report (PDF)](docs/project_report.pdf) *(Upload this to /docs when ready)*
+
+
+
+## 🚀 Features
+
+- ✅ Real-time monocular visual odometry
+- ✅ Feature detection and tracking u
 
 ## 🛠️ Tech Stack
 
